@@ -204,12 +204,7 @@
             }
             var editHtml = '[:memo: ' + editThisPageLinkText + '](' + url + ')\n'
 
-            var editHtml = '[:memo: ' + editThisPageLinkText + '](' + url + ')\n'
-
             var creditHtml = '\n\n' + 'This site was built with the <a href="https://github.com/hibbitts-design/docsify-open-publishing-starter-kit" target="_blank">Docsify Open Publishing Starter Kit</a>.'
-
-            // Adjust GitHub displayable image URL format to also work in Docsify
-            html = html.replace(new RegExp("../assets/images", 'ig'), "assets/images");
 
             if ( !(getURLParameterByName(['standalone','embedded'])) && !(getURLParameterByName('hidegitlink'))  && (!!gitLinkRepoURL)) {
               return editHtml + '\n' + html + '<br />' + '\n\n' + '<hr>' + creditHtml
