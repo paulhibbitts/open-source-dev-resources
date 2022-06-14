@@ -105,7 +105,7 @@
     var editThisPageLinkText = 'Edit this Page';
 
     // Set standalone to true to permanently hide the Sidebar and Navbar
-    var standalone = false;
+    var standalone = true;
 
     // Get value from GET-parameter in URL
     // @param {array} name Parameter-name
@@ -153,7 +153,7 @@
       // repo           : 'https://github.com/hibbitts-design/docsify-open-publishing-starter-kit/',
       homepage: 'home.md',
       // coverpage      : 'coverpage.md',
-      loadSidebar: true,
+      loadSidebar       : !(getURLParameterByName(['standalone','embedded']) || standalone),
       loadNavbar        : !(getURLParameterByName(['standalone','embedded']) || standalone),
       externalLinkTarget: (getURLParameterByName(['standalone','embedded'],'_top','_blank')),
 

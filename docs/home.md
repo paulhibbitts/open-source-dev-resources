@@ -1,7 +1,11 @@
-# My **Open Publishing** Space
+# Open Source Development Resources
 
-## Create, Share and Collaborate
+![Open Sign - Viktor Forgacs](images/viktor-forgacs-LNwIJHUtED4-unsplash.jpg ':class=banner-tall-image')
 
-![Mountain](images/mountain.jpg)
+## Courses
 
-[Docsify](https://docsify.js.org/#/) can generate article, portfolio and documentation websites on the fly. Unlike Docusaurus, Hugo and many other Static Site Generators (SSG), it does not generate static html files. Instead, it smartly loads and parses your Markdown content files and displays them as a website.
+* [Free and Open Source Software (CS3350)](http://jodypaul.com/cs/foss/)
+* [Open Source Software Development Methods](https://www.coursera.org/learn/open-source-software-development-methods)
+
+## Books
+* [Forge Your Future with Open Source](https://pragprog.com/titles/vbopens/forge-your-future-with-open-source/)
