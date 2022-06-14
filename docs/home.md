@@ -11,5 +11,5 @@
 
 ## Courses
 
-* [Free and Open Source Software (CS3350)](http://jodypaul.com/cs/foss/)
+* [Free and Open Source Software (CS3350) - Resources Only](http://jodypaul.com/cs/foss/)
 * [Open Source Software Development Methods](https://www.coursera.org/learn/open-source-software-development-methods)
