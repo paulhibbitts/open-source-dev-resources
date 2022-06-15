@@ -20,6 +20,7 @@
 
 ## Books
 * [Forge Your Future with Open Source](https://pragprog.com/titles/vbopens/forge-your-future-with-open-source/)
+* [How Open Source Ate Software](https://www.oreilly.com/library/view/how-open-source/9781484268001/)
 
 ## Courses
 
