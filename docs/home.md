@@ -9,6 +9,7 @@
 * [How to Contribute to Open Source Projects – A Beginner's Guide](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/)
 * [How to get started with Open Source](https://opensource.guide/)
 * [How to maintain a successful open source project](https://medium.com/code-zen/how-to-maintain-a-successful-open-source-project-aaa2a5437d3a)
+* [Starting an Open Source Project](https://www.linuxfoundation.org/tools/starting-an-open-source-project/)
 * [Why Computing Students Should Contribute to Open Source Software Projects](https://cacm.acm.org/magazines/2021/7/253459-why-computing-students-should-contribute-to-open-source-software-projects/fulltext)
 
 ## Videos
